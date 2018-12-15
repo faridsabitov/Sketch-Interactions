@@ -1,5 +1,6 @@
 #  Sketch-Interactions
 
+![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/preview.png)
   
 
 Table of contents:
