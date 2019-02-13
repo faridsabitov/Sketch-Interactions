@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sketch Interactions</title>
+    <description>Library for creating user flows and add visual connection with Jira tasks in Sketch</description>
+    <image>
+      <url>https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows/raw/master/assets/icon.png</url>
+      <title>Sketch Interactions</title>
+    </image>
+    <generator>Sketch</generator>
+    <item>
+      <title>My Sketch Library</title>
+      <pubDate>Wed, 13 Feb 2019 11:19:04 +0000</pubDate>
+      <enclosure url="https://github.com/faridsabitov/Sketch-Interactions/releases/download/0.2.0/Global-Interactions.sketch" type="application/octet-stream" sparkle:version="1.0.0"/>
+    </item>
+  </channel>
+</rss>
