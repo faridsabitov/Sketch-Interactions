@@ -1,6 +1,6 @@
 #  Sketch-Interactions
 
-![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/preview.png)
+![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/LibraryPreview.gif)
 
 [Install via Sketch](sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffaridsabitov%2FSketch-Interactions%2Fmaster%2Frss.xml) 
   
@@ -13,11 +13,8 @@ Table of contents:
 - [Elements](https://github.com/faridsabitov/Sketch-Interactions#Elements)
 
 
-[**Download Sketch Library**](https://github.com/faridsabitov/Sketch-Interactions/releases)
-
-
 ## Headings
-Used to organize artboards and provide some more information on the start
+Used to organize artboards and provide some more information on the start. You can read more information about it on [Medium](https://medium.com/@faridsabitov/best-practices-of-artboard-naming-in-sketch-3b2aca9e063e)
 
 
 ## Flows
