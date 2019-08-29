@@ -7,16 +7,13 @@
     <image>
       <url>https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows/raw/master/assets/icon.png</url>
       <title>Sketch Interactions Library</title>
-      <link>https://github.com/faridsabitov/Sketch-Interactions</link>
     </image>
     <generator>Sketch</generator>
-    <lastBuildDate>Sun, 24 Mar 2019 12:10:17 GMT</lastBuildDate>
     <item>
-      <title>By @faridsabitov, EPAM</title>
-      <description>Library for creating user flows and add visual connection with Jira tasks in Sketch. By @faridsabitov with a support from EPAM.com</description>
-      <pubDate>Sun, 24 Mar 2019 11:19:04 +0000</pubDate>
+      <title>Sketch Interactions by @faridsabitov, EPAM</title>
+      <pubDate>Mon, 27 May 2019 23:41:19 GMT</pubDate>
       <link>https://github.com/faridsabitov/Sketch-Interactions</link>
-      <enclosure url="https://github.com/faridsabitov/Sketch-Interactions/blob/master/Global%20-%20Interactions.sketch?raw=true" type="application/octet-stream" sparkle:version="1.0.0"/>
+      <enclosure url="https://github.com/faridsabitov/Sketch-Interactions/raw/master/Global%20-%20Interactions.sketch" type="application/octet-stream" sparkle:version="1.2.0"/>
     </item>
   </channel>
 </rss>

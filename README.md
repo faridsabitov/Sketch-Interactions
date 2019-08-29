@@ -2,7 +2,8 @@
 
 ![Preview](https://github.com/faridsabitov/Sketch-Interactions/raw/master/images/LibraryPreview.gif)
 
-[Install via Sketch](sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffaridsabitov%2FSketch-Interactions%2Fmaster%2Frss.xml) 
+<strong>Copy/paste the URLs below in any browser address bar to install</strong></p>
+<code>sketch://add-library?url=https://raw.githubusercontent.com/faridsabitov/Sketch-Interactions/master/rss.xml</code></li>
   
 
 Table of contents:
