@@ -5,7 +5,6 @@
     <description>Library for creating user flows and add visual connection with Jira tasks in Sketch. By @faridsabitov with a support from EPAM.com</description>
     <link>https://github.com/faridsabitov/Sketch-Interactions</link>
     <image>
-      <url>https://github.com/faridsabitov/Sketch-Connection-Flow-Arrows/raw/master/assets/icon.png</url>
       <title>Sketch Interactions Library</title>
     </image>
     <generator>Sketch</generator>
@@ -13,7 +12,7 @@
       <title>Global Interactions</title>
       <pubDate>Mon, 27 May 2019 23:41:19 GMT</pubDate>
       <link>https://github.com/faridsabitov/Sketch-Interactions</link>
-      <enclosure url="https://github.com/faridsabitov/Sketch-Interactions/raw/master/Global%20-%20Interactions.sketch" type="application/octet-stream" sparkle:version="1.2.3"/>
+      <enclosure url="https://github.com/faridsabitov/Sketch-Interactions/raw/master/Global%20-%20Interactions.sketch" type="application/octet-stream" sparkle:version="1.2.4"/>
     </item>
   </channel>
 </rss>
